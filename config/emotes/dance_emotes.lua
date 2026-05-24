@@ -1389,16 +1389,6 @@ dance_emotes = {
             }
         }
     },
-    dance1123 = {
-        label = 'Dance 1123',
-        animation = 'mi_dance_crowd_15_v1_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupa@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance1124 = {
         label = 'Dance 1124',
         animation = 'hi_dance_crowd_11_v2_female^1',
@@ -1432,16 +1422,6 @@ dance_emotes = {
     dance1127 = {
         label = 'Dance 1127',
         animation = 'trans_dance_crowd_mi_to_li_11_v1_male^1',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupa@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1128 = {
-        label = 'Dance 1128',
-        animation = 'mi_dance_crowd_15_v1_prop_npc_phone^flat',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupa@',
         options = {
             flags = {
@@ -1509,39 +1489,9 @@ dance_emotes = {
             }
         }
     },
-    dance1134 = {
-        label = 'Dance 1134',
-        animation = 'mi_dance_crowd_17_v1_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1135 = {
-        label = 'Dance 1135',
-        animation = 'li_dance_crowd_17_v1_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance1136 = {
         label = 'Dance 1136',
         animation = 'hi_dance_crowd_13_v1_female^2',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1137 = {
-        label = 'Dance 1137',
-        animation = 'hi_dance_crowd_17_v1_prop_npc_phone^heel',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
         options = {
             flags = {
@@ -1559,16 +1509,6 @@ dance_emotes = {
             }
         }
     },
-    dance1139 = {
-        label = 'Dance 1139',
-        animation = 'hi_dance_crowd_17_v1_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance114 = {
         label = 'Dance 114',
         animation = 'hi_dance_facedj_11_v1_female^5',
@@ -1579,139 +1519,9 @@ dance_emotes = {
             }
         }
     },
-    dance1140 = {
-        label = 'Dance 1140',
-        animation = 'hi_dance_crowd_13_v2_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1141 = {
-        label = 'Dance 1141',
-        animation = 'hi_dance_crowd_13_v2_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1142 = {
-        label = 'Dance 1142',
-        animation = 'mi_dance_crowd_17_v1_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1143 = {
-        label = 'Dance 1143',
-        animation = 'li_dance_crowd_11_v2_ba_prop_battle_vape_01^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1144 = {
-        label = 'Dance 1144',
-        animation = 'li_dance_crowd_11_v2_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1145 = {
-        label = 'Dance 1145',
-        animation = 'mi_dance_crowd_13_v2_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1146 = {
-        label = 'Dance 1146',
-        animation = 'li_dance_crowd_15_v2_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1147 = {
-        label = 'Dance 1147',
-        animation = 'li_dance_crowd_15_v2_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1148 = {
-        label = 'Dance 1148',
-        animation = 'li_dance_crowd_11_v2_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1149 = {
-        label = 'Dance 1149',
-        animation = 'li_dance_crowd_17_v1_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupb@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance115 = {
-        label = 'Dance 115',
-        animation = 'hi_dance_facedj_09_v1_flats_female^6',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance1150 = {
         label = 'Dance 1150',
         animation = 'hi_dance_crowd_13_v1_male^2',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupc@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1151 = {
-        label = 'Dance 1151',
-        animation = 'mi_dance_crowd_17_v1_prop_npc_phone',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupc@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1152 = {
-        label = 'Dance 1152',
-        animation = 'trans_dance_crowd_mi_to_li_11_v1_ba_prop_battle_vape_01',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupc@',
         options = {
             flags = {
@@ -1732,16 +1542,6 @@ dance_emotes = {
     dance1154 = {
         label = 'Dance 1154',
         animation = 'trans_dance_crowd_mi_to_li_11_v1_male^2',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupc@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1155 = {
-        label = 'Dance 1155',
-        animation = 'mi_dance_crowd_15_v1_prop_npc_phone',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupc@',
         options = {
             flags = {
@@ -1979,16 +1779,6 @@ dance_emotes = {
             }
         }
     },
-    dance1177 = {
-        label = 'Dance 1177',
-        animation = 'hi_dance_crowd_15_v1ba_prop_battle_vape_01^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupd@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance1178 = {
         label = 'Dance 1178',
         animation = 'mi_dance_crowd_13_v2_male_^2',
@@ -2129,16 +1919,6 @@ dance_emotes = {
             }
         }
     },
-    dance1190 = {
-        label = 'Dance 1190',
-        animation = 'hi_dance_crowd_15_v1ba_prop_battle_vape_01^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupd@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance1191 = {
         label = 'Dance 1191',
         animation = 'li_dance_crowd_13_v1_male_^2',
@@ -2219,30 +1999,10 @@ dance_emotes = {
             }
         }
     },
-    dance1199 = {
-        label = 'Dance 1199',
-        animation = 'li_dance_crowd_17_v1ba_prop_battle_vape_01^heel^1',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupd@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance12 = {
         label = 'Dance 12',
         animation = 'hi_dance_facedj_17_v2_male^2',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance120 = {
-        label = 'Dance 120',
-        animation = 'hi_dance_facedj_09_v1_flats_female^3',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
         options = {
             flags = {
                 loop = true
@@ -2279,39 +2039,9 @@ dance_emotes = {
             }
         }
     },
-    dance1203 = {
-        label = 'Dance 1203',
-        animation = 'mi_dance_crowd_15_v2_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance1204 = {
         label = 'Dance 1204',
         animation = 'trans_dance_crowd_li_to_mi_09_v2_female^2',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1205 = {
-        label = 'Dance 1205',
-        animation = 'mi_dance_crowd_15_v2_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1206 = {
-        label = 'Dance 1206',
-        animation = 'trans_dance_crowd_mi_to_li_11_v1_prop_npc_phone^heel',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
         options = {
             flags = {
@@ -2329,70 +2059,10 @@ dance_emotes = {
             }
         }
     },
-    dance1208 = {
-        label = 'Dance 1208',
-        animation = 'trans_dance_crowd_mi_to_li_11_v1_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1209 = {
-        label = 'Dance 1209',
-        animation = 'hi_dance_crowd_13_v1_prop_npc_phone^flat',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance121 = {
         label = 'Dance 121',
         animation = 'hi_dance_facedj_17_v1_male^5',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1210 = {
-        label = 'Dance 1210',
-        animation = 'hi_dance_crowd_13_v1_prop_npc_phone^heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupe@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1211 = {
-        label = 'Dance 1211',
-        animation = 'li_dance_crowd_15_v1_vape',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@low_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1212 = {
-        label = 'Dance 1212',
-        animation = 'li_dance_crowd_15_v1_mobile',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@low_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1213 = {
-        label = 'Dance 1213',
-        animation = 'li_dance_crowd_15_v1_mobile_heel',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@low_intensity',
         options = {
             flags = {
                 loop = true
@@ -2412,16 +2082,6 @@ dance_emotes = {
     dance1215 = {
         label = 'Dance 1215',
         animation = 'li_dance_crowd_15_v1_gropub_female^1',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@low_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance1216 = {
-        label = 'Dance 1216',
-        animation = 'li_dance_crowd_15_v1_vape_heel',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@low_intensity',
         options = {
             flags = {
@@ -2659,16 +2319,6 @@ dance_emotes = {
             }
         }
     },
-    dance130 = {
-        label = 'Dance 130',
-        animation = 'hi_dance_facedj_13_v1_flats_female^1',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance131 = {
         label = 'Dance 131',
         animation = 'hi_dance_facedj_15_v2_male^5',
@@ -2683,16 +2333,6 @@ dance_emotes = {
         label = 'Dance 132',
         animation = 'hi_dance_facedj_09_v2_male^4',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance133 = {
-        label = 'Dance 133',
-        animation = 'hi_dance_facedj_09_v1_flats_female^5',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
         options = {
             flags = {
                 loop = true
@@ -2732,16 +2372,6 @@ dance_emotes = {
     dance137 = {
         label = 'Dance 137',
         animation = 'hi_dance_facedj_15_v1_female^3',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance138 = {
-        label = 'Dance 138',
-        animation = 'hi_dance_facedj_17_v1_flats_female^2',
         dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
         options = {
             flags = {
@@ -3029,16 +2659,6 @@ dance_emotes = {
             }
         }
     },
-    dance164 = {
-        label = 'Dance 164',
-        animation = 'li_dance_facedj_09_v1_flats_female^2',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance165 = {
         label = 'Dance 165',
         animation = 'li_dance_facedj_11_v1_female^3',
@@ -3129,16 +2749,6 @@ dance_emotes = {
             }
         }
     },
-    dance173 = {
-        label = 'Dance 173',
-        animation = 'li_dance_facedj_09_v1_flats_female^3',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance174 = {
         label = 'Dance 174',
         animation = 'li_dance_facedj_17_v2_female^6',
@@ -3199,30 +2809,10 @@ dance_emotes = {
             }
         }
     },
-    dance18 = {
-        label = 'Dance 18',
-        animation = 'hi_dance_facedj_13_v1_flats_female^4',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance180 = {
         label = 'Dance 180',
         animation = 'li_dance_facedj_09_v2_male^4',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance181 = {
-        label = 'Dance 181',
-        animation = 'li_dance_facedj_09_v1_flats_female^1',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity',
         options = {
             flags = {
                 loop = true
@@ -3519,16 +3109,6 @@ dance_emotes = {
             }
         }
     },
-    dance208 = {
-        label = 'Dance 208',
-        animation = 'li_dance_facedj_09_v1_flats_female^6',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance209 = {
         label = 'Dance 209',
         animation = 'li_dance_facedj_17_v1_male^2',
@@ -3649,16 +3229,6 @@ dance_emotes = {
             }
         }
     },
-    dance22 = {
-        label = 'Dance 22',
-        animation = 'hi_dance_facedj_15_v1_flats_female^5',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance220 = {
         label = 'Dance 220',
         animation = 'li_dance_facedj_15_v1_female^4',
@@ -3773,26 +3343,6 @@ dance_emotes = {
         label = 'Dance 230',
         animation = 'li_dance_facedj_17_v1_female^2',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance231 = {
-        label = 'Dance 231',
-        animation = 'li_dance_facedj_09_v1_flats_female^5',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance232 = {
-        label = 'Dance 232',
-        animation = 'li_dance_facedj_09_v1_flats_female^4',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity',
         options = {
             flags = {
                 loop = true
@@ -4193,16 +3743,6 @@ dance_emotes = {
         label = 'Dance 269',
         animation = 'mi_dance_facedj_17_v1_female^3',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance27 = {
-        label = 'Dance 27',
-        animation = 'hi_dance_facedj_09_v1_flats_female^1',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
         options = {
             flags = {
                 loop = true
@@ -4673,16 +4213,6 @@ dance_emotes = {
         label = 'Dance 311',
         animation = 'mi_dance_facedj_15_v1_female^1',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance312 = {
-        label = 'Dance 312',
-        animation = 'mi_dance_facedj_11_v1_flats_female^2',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@med_intensity',
         options = {
             flags = {
                 loop = true
@@ -6529,16 +6059,6 @@ dance_emotes = {
             }
         }
     },
-    dance48 = {
-        label = 'Dance 48',
-        animation = 'hi_dance_facedj_15_v1_flats_female^6',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance480 = {
         label = 'Dance 480',
         animation = 'trans_dance_facedj_mi_to_li_07_v1_male^4',
@@ -6973,16 +6493,6 @@ dance_emotes = {
         label = 'Dance 519',
         animation = 'hi_dance_crowd_17_v2_female^1',
         dictionary = 'anim@amb@nightclub@dancers@crowddance_groups@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance52 = {
-        label = 'Dance 52',
-        animation = 'hi_dance_facedj_13_v1_flats_female^2',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
         options = {
             flags = {
                 loop = true
@@ -7979,16 +7489,6 @@ dance_emotes = {
             }
         }
     },
-    dance61 = {
-        label = 'Dance 61',
-        animation = 'hi_dance_facedj_13_v1_flats_female^3',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
     dance610 = {
         label = 'Dance 610',
         animation = 'li_dance_crowd_15_v1_male^1',
@@ -8973,16 +8473,6 @@ dance_emotes = {
         label = 'Dance 7',
         animation = 'hi_dance_facedj_17_v1_male^3',
         dictionary = 'anim@amb@nightclub_island@dancers@crowddance_facedj@',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance70 = {
-        label = 'Dance 70',
-        animation = 'hi_dance_facedj_13_v1_flats_female^5',
-        dictionary = 'anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity',
         options = {
             flags = {
                 loop = true
@@ -11933,16 +11423,6 @@ dance_emotes = {
         label = 'Dance 966',
         animation = 'trans_dance_crowd_mi_to_li_12_v1_female^6',
         dictionary = 'anim@amb@nightclub@dancers@crowddance_groups_transitions@from_med_intensity',
-        options = {
-            flags = {
-                loop = true
-            }
-        }
-    },
-    dance967 = {
-        label = 'Dance 967',
-        animation = 'trans_dance_crowd_mi_to_hi_09_v1_female^1',
-        dictionary = 'anim@amb@nightclub_island@dancers@crowddance_groups@groupa@',
         options = {
             flags = {
                 loop = true

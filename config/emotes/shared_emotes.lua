@@ -35,36 +35,6 @@ shared_emotes = {
         skiprequest = true,
         synchronized = true
     },
-    hugtip = {
-        name = 'hugtip',
-        label = 'Hug Pose Tippy Toes',
-        animation = 'friendship007',
-        dictionary = 'littlespoon@friendship007',
-        options = {
-            flags = {
-                loop = true
-            },
-            shared = {
-                otheremote = 'hugtip2'
-            }
-        },
-        synchronized = true
-    },
-    hugtip2 = {
-        name = 'hugtip2',
-        label = 'Hug Pose Tippy Toes 2',
-        animation = 'friendship008',
-        dictionary = 'littlespoon@friendship008',
-        options = {
-            flags = {
-                loop = true
-            },
-            shared = {
-                otheremote = 'hugtip'
-            }
-        },
-        synchronized = true
-    },
     sbaseball = {
         name = 'sbaseball',
         label = 'Baseball',
@@ -324,53 +294,6 @@ shared_emotes = {
         },
         synchronized = true
     },
-    sgive = {
-        name = 'sgive',
-        label = 'Give',
-        animation = 'givetake1_a',
-        dictionary = 'mp_common',
-        options = {
-            duration = 2000,
-            flags = {
-                move = true
-            },
-            shared = {
-                otheremote = 'sgive2'
-            }
-        },
-        synchronized = true
-    },
-    sgive2 = {
-        name = 'sgive2',
-        label = 'Give 2',
-        animation = 'givetake1_b',
-        dictionary = 'mp_common',
-        options = {
-            duration = 2000,
-            flags = {
-                move = true
-            },
-            shared = {
-                otheremote = 'sgive'
-            }
-        },
-        synchronized = true
-    },
-    sgiveblowjob = {
-        name = 'sgiveblowjob',
-        label = 'Give Blowjob',
-        animation = 'pimpsex_hooker',
-        dictionary = 'misscarsteal2pimpsex',
-        options = {
-            duration = 3,
-            shared = {
-                frontoffset = 0.63,
-                otheremote = 'sreceiveblowjob'
-            }
-        },
-        nsfw = true,
-        synchronized = true
-    },
     shandshake = {
         name = 'shandshake',
         label = 'Handshake',
@@ -519,62 +442,6 @@ shared_emotes = {
                 frontoffset = 0.52,
                 otheremote = 'shug3',
                 sideoffset = -0.05
-            }
-        },
-        synchronized = true
-    },
-    skiss = {
-        name = 'skiss',
-        label = 'Kiss',
-        animation = 'cs_lestercrest_3_dual-20',
-        dictionary = 'hs3_ext-20',
-        options = {
-            duration = 1,
-            shared = {
-                frontoffset = 0.08,
-                otheremote = 'skiss2'
-            }
-        },
-        synchronized = true
-    },
-    skiss2 = {
-        name = 'skiss2',
-        label = 'Kiss 2',
-        animation = 'csb_georginacheng_dual-20',
-        dictionary = 'hs3_ext-20',
-        options = {
-            duration = 1,
-            shared = {
-                frontoffset = 0.08,
-                otheremote = 'skiss'
-            }
-        },
-        synchronized = true
-    },
-    skiss3 = {
-        name = 'skiss3',
-        label = 'Kiss 3',
-        animation = 'cs_lestercrest_3_dual-19',
-        dictionary = 'hs3_ext-19',
-        options = {
-            duration = 1,
-            shared = {
-                frontoffset = 0.08,
-                otheremote = 'skiss4'
-            }
-        },
-        synchronized = true
-    },
-    skiss4 = {
-        name = 'skiss4',
-        label = 'Kiss 4',
-        animation = 'csb_georginacheng_dual-19',
-        dictionary = 'hs3_ext-19',
-        options = {
-            duration = 1,
-            shared = {
-                frontoffset = 0.08,
-                otheremote = 'skiss3'
             }
         },
         synchronized = true
@@ -770,21 +637,6 @@ shared_emotes = {
         },
         synchronized = true
     },
-    sreceiveblowjob = {
-        name = 'sreceiveblowjob',
-        label = 'Receive Blowjob',
-        animation = 'pimpsex_punter',
-        dictionary = 'misscarsteal2pimpsex',
-        options = {
-            duration = 3,
-            shared = {
-                frontoffset = 0.63,
-                otheremote = 'sgiveblowjob'
-            }
-        },
-        nsfw = true,
-        synchronized = true
-    },
     ssearch = {
         name = 'ssearch',
         label = 'Search',
@@ -907,38 +759,4 @@ shared_emotes = {
         },
         synchronized = true
     },
-    sstreetsexfemale = {
-        name = 'sstreetsexfemale',
-        label = 'Street Sex Female',
-        animation = 'shagloop_hooker',
-        dictionary = 'misscarsteal2pimpsex',
-        options = {
-            flags = {
-                loop = true
-            },
-            shared = {
-                frontoffset = 0.5,
-                otheremote = 'sstreetsexmale'
-            }
-        },
-        nsfw = true,
-        synchronized = true
-    },
-    sstreetsexmale = {
-        name = 'sstreetsexmale',
-        label = 'Street Sex Male',
-        animation = 'shagloop_pimp',
-        dictionary = 'misscarsteal2pimpsex',
-        options = {
-            flags = {
-                loop = true
-            },
-            shared = {
-                frontoffset = 0.5,
-                otheremote = 'sstreetsexfemale'
-            }
-        },
-        nsfw = true,
-        synchronized = true
-    }
 }

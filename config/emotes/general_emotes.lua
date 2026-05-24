@@ -1579,17 +1579,6 @@ general = {
         animation = 'hugs_guy_a',
         dictionary = 'mp_ped_interaction'
     },
-    hump = {
-        label = 'Hump',
-        animation = 'skull_loving_bear',
-        dictionary = 'timetable@trevor@skull_loving_bear',
-        options = {
-            flags = {
-                loop = true
-            }
-        },
-        nsfw = true
-    },
     idle = {
         label = 'Idle',
         animation = 'idle',
@@ -4841,60 +4830,6 @@ general = {
                 move = true
             }
         }
-    },
-    wank = {
-        label = 'Wank',
-        animation = 'idle_a',
-        dictionary = 'anim@mp_player_intselfiewank',
-        options = {
-            flags = {
-                loop = true,
-                move = true
-            }
-        },
-        nsfw = true
-    },
-    wank2 = {
-        label = 'Wank 2',
-        animation = 'idle_a',
-        dictionary = 'anim@mp_player_intupperwank',
-        options = {
-            flags = {
-                loop = true,
-                move = true
-            }
-        },
-        nsfw = true
-    },
-    wank3 = {
-        label = 'Wank 3',
-        animation = 'mp_player_int_wank_02',
-        dictionary = 'mp_player_int_upperwank',
-        options = {
-            flags = {
-                loop = true,
-                move = true
-            }
-        },
-        nsfw = true
-    },
-    wank4 = {
-        label = 'Wank 4',
-        animation = 'mp_player_int_wank_02_fp',
-        dictionary = 'mp_player_int_upperwank',
-        options = {
-            flags = {
-                loop = true,
-                move = true
-            }
-        },
-        nsfw = true
-    },
-    wank5 = {
-        label = 'Wank 5',
-        animation = 'mp_player_int_wank',
-        dictionary = 'mp_player_intwank',
-        nsfw = true
     },
     warmth = {
         label = 'Warmth',

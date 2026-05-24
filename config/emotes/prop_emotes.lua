@@ -2721,22 +2721,6 @@ prop_emotes = {
             }
         }
     },
-    hump2 = {
-        label = 'Hump (Bear)',
-        animation = 'skull_loving_bear',
-        dictionary = 'timetable@trevor@skull_loving_bear',
-        options = {
-            flags = {
-                loop = true
-            },
-            props = {{
-                bone = 28422,
-                name = 'prop_mr_raspberry_01',
-                placement = {vec3(0.0, 0.0, 0.0), vec3(0.0, 0.0, 0.0)}
-            }}
-        },
-        nsfw = true
-    },
     icefishing = {
         label = 'Ice Fishing',
         animation = 'base',
@@ -2894,23 +2878,6 @@ prop_emotes = {
                 placement = {vec3(0.00, 0.00, 0.00), vec3(0.00, 0.00, 0.00)}
             }}
         }
-    },
-    jerkf = {
-        label = 'JerkOff! Female',
-        animation = 'trev_jerking_off_loop',
-        dictionary = 'switch@trevor@jerking_off',
-        options = {
-            flags = {
-                loop = true,
-                move = true
-            },
-            props = {{
-                bone = 28422,
-                name = 'prop_cs_dildo_01',
-                placement = {vec3(0.09, 0.05, -0.03), vec3(90.0, 80.0, 30.0)}
-            }}
-        },
-        nsfw = true
     },
     joint = {
         label = 'Joint',
